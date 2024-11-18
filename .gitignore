@@ -1,2 +1,4 @@
 env/
 __pycache__
+nvkey.py
+.DS_Store
